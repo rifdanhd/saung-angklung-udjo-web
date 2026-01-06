@@ -1,0 +1,1 @@
+<img src="{{ asset('images/Logosaung-removebg-preview.png') }}" alt="Logo" {{ $attributes->class('h-16') }}>
